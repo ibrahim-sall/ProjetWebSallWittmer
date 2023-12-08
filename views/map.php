@@ -19,7 +19,8 @@
             padding: 5px;
             display: flex;
             height: 97vh;
-            background-image: url('images/welcome.jpeg');
+            /* background-image: url('images/welcome.jpeg'); */
+            background-color: blue;
         }
 
         #ranking {
